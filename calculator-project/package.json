@@ -1,0 +1,33 @@
+{
+  "name": "hrscalculator-projectpiaic",
+  "version": "1.0.0",
+  "description": "A Simple Calculator Made In TypeScript With Help Of Node.JS Inquirer, Chalk & ChalkAnimation By Hassan Raza",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HR-Suriya",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HR-Suriya/Project-Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HR-Suriya/Project-Calculator/issues"
+  },
+  "homepage": "https://github.com/HR-Suriya/Project-Calculator#readme"
+}
